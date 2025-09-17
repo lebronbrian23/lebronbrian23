@@ -25,13 +25,13 @@
 
 Hi, I’m Brian, a Senior Full-Stack Developer specializing in PHP/Laravel and Vue.js. Over the past 8+ years, I’ve built and scaled applications from the ground up, from secure eCommerce platforms to microservices-based SaaS solutions. I thrive at solving complex technical problems, particularly around API integrations, payment systems, and application security. What sets me apart is my ability to bridge technical execution with business needs, ensuring solutions are not just functional, but also scalable, secure, and revenue driven. I’m passionate about leveraging my expertise to help organizations grow through innovative and resilient technology solutions
 
+🌱 I’m currently learning and advancing my skills in Data science and Machine learning at  <a href="https://datasciences.utoronto.ca/" target="blank">University of Toronto Data Science Institute </a>, focusing on Linear Regression, Classification, and Resampling, sampling, visualization, Algorithms and Data Structures, and 🧠 Deep Learning.
 
 ---
 
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebronbrian23)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -52,6 +52,10 @@ Hi, I’m Brian, a Senior Full-Stack Developer specializing in PHP/Laravel and V
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
 **lebronbrian23/lebronbrian23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

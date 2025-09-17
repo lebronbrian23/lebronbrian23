@@ -1,6 +1,8 @@
+## Hi there 👋
 
-<div align="center" id="header">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dqcHl5dXlsb2RmaDBpNjEyaDlneWpxdzBrazVpcDN2NzRrdWo3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="200" />
+<div align="center" id="banner">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U3ZzVsbzg5NjZhMTZvdDFrcGNib3oxamo4YWNoN3ptYjAxdGdoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"
+    alt="banner" width="600" height="300" />
 </div>
 
 <div id="badges" align="center">
@@ -16,14 +18,12 @@
   <img src="https://komarev.com/ghpvc/?username=lebronbrian23&color=green" alt="profile views"/>
 </div>
 
-<div align="center" id="banner">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U3ZzVsbzg5NjZhMTZvdDFrcGNib3oxamo4YWNoN3ptYjAxdGdoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"
-    alt="banner" width="600" height="300" />
-</div>
 
 ---
 
 ### :man_technologist: About Me :
+
+Hi, I’m Brian, a Senior Full-Stack Developer specializing in PHP/Laravel and Vue.js. Over the past 8+ years, I’ve built and scaled applications from the ground up, from secure eCommerce platforms to microservices-based SaaS solutions. I thrive at solving complex technical problems, particularly around API integrations, payment systems, and application security. What sets me apart is my ability to bridge technical execution with business needs, ensuring solutions are not just functional, but also scalable, secure, and revenue driven. I’m passionate about leveraging my expertise to help organizations grow through innovative and resilient technology solutions
 
 
 ---
@@ -32,8 +32,6 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebronbrian23)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebronbrian23&show_icons=true&theme=radical)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -55,7 +53,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Hi there 👋
 <!--
 **lebronbrian23/lebronbrian23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
